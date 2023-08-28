@@ -212,6 +212,12 @@ Consider all sites to be NSFW unless otherwise known.
     <td></td>
 </tr>
 <tr>
+    <td>Vlixa</td>
+    <td>https://vlixa.com/</td>
+    <td>Models, Videos, Trending Posts, Popular Videos, Top Models, Posts</td>
+    <td></td>
+</tr>
+<tr>
     <td>Fappic</td>
     <td>https://fappic.com/</td>
     <td>individual Images</td>
